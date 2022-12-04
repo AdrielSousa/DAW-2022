@@ -14,7 +14,6 @@ const tipos = [
     { valor: 'casa', rotulo: 'Casa' },
     { valor: 'sobrado', rotulo: 'Sobrado' },
     { valor: 'terreno', rotulo: 'Terreno' }
-    
 ];
 
 const cidades = [
